@@ -1,0 +1,8 @@
+Generar un algoritmo que permita calcular y mostrar el valor de la planilla de teléfono de un casa. Se debe ingresar el costo por minutos, el número de minutos consumidos en el mes.
+
+1.Inicio
+2.Se pide el costo por minutos
+3.Se pide el número de minutos consumidos
+4.Se multiplica el costo por el número de minutos
+5.Se muestra el resultado en pantalla
+6.Fin
